@@ -12,28 +12,28 @@
 url: https://rcastonguay.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /sacred-spain
+baseurl: /garndt
 # location of code, the full url to your github repository
-source-code: https://github.com/rcastonguay/sacred-spain.git
+source-code: https://github.com/rcastonguay/garndt.git
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Sacred Spain
+title: Bauhaus Weaving Theory
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A Digital Exhibit
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Built for Joseph Monteyne"
+description: "Built for T'ai Smith"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Joseph Monteyne
+author: T'ai Smith and Rémi Castonguay
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: sacred-made-real
+metadata: gertrude-arndt
 
 ##########
 # GOOGLE SERVICES [optional!]
