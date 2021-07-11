@@ -10,5 +10,6 @@ source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+physicaldescription, Physical Description
 rights,Rights,
 rightsstatement,Rights Statement,,true
