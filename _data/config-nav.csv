@@ -5,6 +5,9 @@ Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
 Timeline,/timeline.html
+Timelines,,
+Full Timeline,/timeline.html,Timelines
+TimelineJS,/timelinejs.html,Timelines
 Data,/data.html
 About,,
 About the Collection,/about.html,About
